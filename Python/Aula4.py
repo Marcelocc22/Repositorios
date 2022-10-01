@@ -1,4 +1,7 @@
-# Módulos
+# Cadeias de Caracteres
+
+# Fatiamento
+
 
 
 
